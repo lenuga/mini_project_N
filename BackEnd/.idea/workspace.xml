@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3670c56-4e03-4410-8b43-c18a30a267d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring/src/main/java/medical_submission/controllers/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring/src/main/java/medical_submission/controllers/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring/src/main/java/medical_submission/models/FileDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring/src/main/java/medical_submission/models/FileDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring/src/main/java/medical_submission/service/FileStorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring/src/main/java/medical_submission/service/FileStorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/University_Medical_Submission_Backend_Spring" />
+  </component>
+  <component name="ProjectId" id="1nNVnGTuqndbJ85ZjFDFFLWOAmU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3670c56-4e03-4410-8b43-c18a30a267d7" name="Default Changelist" comment="" />
+      <created>1611230700535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611230700535</updated>
+    </task>
+    <servers />
+  </component>
+</project>
